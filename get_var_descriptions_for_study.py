@@ -16,10 +16,14 @@ import Bio.Entrez
 # e.g. https://www.ncbi.nlm.nih.gov/gap/advanced_search/?TERM=phs001514
 # but "save results" for too many variables causes it to crash
 # so we're finding another way
-
+# If you type a variable ID (phv...) into Advanced search and then navigate to the variables tab,
+# it will telel you how many individuals that variable has been measured for. However,
+# I see no programmatic way to access that data, so I'm not reporting it here.
+ 
 parser = argparse.ArgumentParser()
 parser.add_argument('email')
 parser.add_argument('phs')
+parser.add_argument('study_short_name')
 args = parser.parse_args()
 
 Bio.Entrez.email = args.email
@@ -43,6 +47,7 @@ n_results = int(search_record['Count'])
 batch_size = 500 # can't download more than 500 in json format at once
 # and Bio.Entrez.read() fails for esummary stream XML for whatever reason, so have to use json format
 # unless we want to parse XML ourselves
+
 phenotypes = {}
 for batch_start in range(0, n_results, batch_size):
     summary_stream = Bio.Entrez.esummary(
@@ -69,5 +74,10 @@ for batch_start in range(0, n_results, batch_size):
         if any(word in description.lower() for word in ['nicotin', 'smoke', 'smoki', 'cigar', 'vape', 'vapi', 'tobacco', 'hookah']):
             phenotypes[variable_id] = f'{name}\t{variable_id}\t{description}'
 
-for variable_id in sorted(phenotypes):
-    print(phenotypes[variable_id])
+if phenotypes:
+    with open(f'{args.study_short_name}_smoking_phenotypes.tab', 'w') as f:
+        for variable_id in sorted(phenotypes):
+            f.write(phenotypes[variable_id])
+            f.write('\n')
+else:
+    print(f'This script found no smoking related phenotypes for {args.phs}')

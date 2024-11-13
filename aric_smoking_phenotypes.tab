@@ -1,0 +1,171 @@
+cigt01	phv00022814.v1.p1	Cigarette smoking status at visit 1
+cigtyr01	phv00022815.v1.p1	Cigarette years of smoking (average number of cigarettes per day, times the number of years smoked) at visit 1
+cursmk01	phv00022816.v1.p1	Current cigarette smoker at visit 1
+forsmk01	phv00022817.v1.p1	Former cigarette smoker at visit 1
+evrsmk01	phv00022818.v1.p1	Ever smoked cigarettes at visit 1
+hom29	phv00080505.v1.p1	Age 1st regularly smoked cigarettes (visit 1)
+hom35	phv00080506.v1.p1	Overall number of cigarettes per day (visit 1)
+hom31	phv00080691.v1.p1	Age stopped smoking cigarettes (visit 1)
+hom32	phv00080692.v1.p1	Number of cigarettes per day (visit 1)
+hhxb44	phv00080701.v1.p1	Have you ever smoked cigarettes (visit 2)
+hhxb45	phv00080702.v1.p1	Do you smoke cigarettes now (visit 2)
+hhxb46	phv00080703.v1.p1	When smoked last cigarette (visit 2)
+hhxb47	phv00080704.v1.p1	Prior quitting, number of cigarettes per day (visit 2)
+hhxb48	phv00080705.v1.p1	Number of cigarettes smoked per day now (visit 2)
+phxa25	phv00080712.v1.p1	Ever smoke cigarettes (visit 3)
+phxa27	phv00080713.v1.p1	Do you now smoke cigarettes (visit 3)
+phxa28	phv00080714.v1.p1	When did you smoke last cigarette (visit 3)
+phxa30	phv00080715.v1.p1	Cigarettes smoked per day now (visit 3)
+phxa29	phv00080716.v1.p1	Prior to quitting, number of cigarettes per day (visit 3)
+phxb7	phv00080722.v1.p1	Ever smoked cigarettes (visit 4)
+phxb8	phv00080723.v1.p1	Do you now smoke cigarettes (visit 4)
+phxb9	phv00080724.v1.p1	When did you smoke last cigarette (visit 4)
+phxb10	phv00080725.v1.p1	Prior to quitting, number of cigarettes per day (visit 4)
+phxb11	phv00080726.v1.p1	Cigarettes smoked per day now (visit 4)
+ESP_current_smoker_baseline	phv00163971.v2.p1	Current smoking status at baseline (0/1)
+ESP_former_smoker_baseline	phv00163972.v2.p1	Former smoking status at baseline (0/1)
+current_smoker_baseline	phv00190334.v1.p1	Current smoking status at first participant visit (0/1)
+former_smoker_baseline	phv00190335.v1.p1	Former smoking status at first participant visit (0/1)
+CORA22B	phv00203798.v3.p1	History OF SMOKING. Q22B [Coroner / Medical Examiner Form, COR]
+HRAA21D	phv00203911.v3.p1	Smoking: Current, Past, Smoker NOS, Never, Unknown Q21D [Hospital Abstraction Form]
+IFIA19B	phv00204312.v3.p1	A. History. HAVE A HISTORY OF CIGARETTE SMOKING Q19B [Information Interview Form]
+CURSMK21	phv00204624.v1.p1	Current smoker flag [Cohort, Exam 2]
+FORSMK21	phv00204625.v1.p1	Former smoker flag [Cohort, Exam 2]
+EVRSMK21	phv00204626.v1.p1	Ever smoker flag [Cohort, Exam 2]
+CIGT21	phv00204655.v1.p1	Visit 2, cigarette smoking status [Cohort, Exam 2]
+CIGT01	phv00204713.v1.p1	Cigarette smoking status [Cohort, Exam 1]
+CIGTYR01	phv00204714.v1.p1	Cigarette years of smoking [Cohort, Exam 1]
+PIPE01	phv00204715.v1.p1	Pipe smoking status [Cohort, Exam 1]
+PIPEYR01	phv00204716.v1.p1	Ounce years of smoking [Cohort, Exam 1]
+CIGR01	phv00204717.v1.p1	Cigar/cigarillo smoking status [Cohort, Exam 1]
+CIGRYR01	phv00204718.v1.p1	Cigar/cigarillo years of smoking [Cohort, Exam 1]
+CURSMK01	phv00204756.v1.p1	Current cigarette smoker [Cohort, Exam 1]
+FORSMK01	phv00204757.v1.p1	Former cigarette smoker [Cohort, Exam 1]
+EVRSMK01	phv00204758.v1.p1	Ever smoked cigarettes [Cohort, Exam 1]
+CIGT31	phv00204859.v1.p1	Version 3, cigarette smoking status [Cohort, Exam 3]
+CURSMK31	phv00204864.v1.p1	Current smoker [Cohort, Exam 3]
+FORSMK31	phv00204865.v1.p1	Former smoker [Cohort, Exam 3]
+EVRSMK31	phv00204866.v1.p1	Ever smoker [Cohort, Exam 3]
+CIGT41	phv00204971.v1.p1	Cigarette smoking status [Cohort, Exam 4]
+CURSMK41	phv00204972.v1.p1	Current cigarette smoker [Cohort, Exam 4]
+FORSMK41	phv00204973.v1.p1	Former cigarette smoker [Cohort, Exam 4]
+EVRSMK41	phv00204974.v1.p1	Ever smoked cigarettes [Cohort, Exam 4]
+HEM_SMOK	phv00206661.v1.p1	Hemostasis smoking risk set [Hemostasis Lab, exam 3]
+SMOK	phv00206663.v1.p1	Smoking change status [Hemostasis Lab, exam 3]
+HFAA9G	phv00206780.v3.p1	Q9G - Gen his: Ex-smoker
+HFAA9H	phv00206781.v3.p1	History of smoking?
+HFAA58B	phv00207046.v3.p1	HFA58b. Interventions:Tobacco cessation
+HHXB44	phv00207119.v1.p1	[Smoking]. Have you ever smoked cigarettes? [Code No if less than 400 cigarettes in a lifetime]. Q44 [Health/Medical History, exam 2]
+HHXB45	phv00207120.v1.p1	[Smoking]. Do you now smoke cigarettes? Q45 [Health/Medical History, exam 2]
+HHXB46	phv00207121.v1.p1	[Smoking]. When did you smoke your last cigarette? Q46 [Health/Medical History, exam 2]
+HHXB47	phv00207122.v1.p1	[Smoking]. Prior to quitting, how many cigarettes did you usually smoke per day? [Code 00 if less than one per day]. Q47 [Health/Medical History, exam 2]
+HHXB48	phv00207123.v1.p1	[Smoking]. How many cigarettes do you smoke per day now? [Code 00 if less than one per day]. Q48 [Health/Medical History, exam 2]
+HHXB49	phv00207124.v1.p1	[Smoking]. Do/did you inhale the cigarette smoke? Q49 [Health/Medical History, exam 2]
+HHXB50	phv00207125.v1.p1	[Smoking]. Do you now smoke a pipe? Q50 [Health/Medical History, exam 2]
+HHXB51	phv00207126.v1.p1	[Smoking]. How much pipe tobacco are you smoking now? [Record oz per week: a standard pouch of tobacco contains 1 1/2 oz. Code 00 if less than one oz. per week]. Q51 [Health/Medical History, exam 2]
+HHXB52	phv00207127.v1.p1	[Smoking]. Do you inhale the pipe smoke? Q52 [Health/Medical History, exam 2]
+HHXB53	phv00207128.v1.p1	[Smoking]. Do you now smoke cigars or cigarillos? Q53 [Health/Medical History, exam 2]
+HHXB54	phv00207129.v1.p1	[Smoking]. How many (cigars/cigarillos) do you smoke per week now? [Code 00 if less than one per week]. Q54 [Health/Medical History, exam 2]
+HHXB55	phv00207130.v1.p1	[Smoking]. Do you inhale the (cigar/cigarillo) smoke? Q55 [Health/Medical History, exam 2]
+HHXB56A	phv00207131.v1.p1	[Smoking]. Please tell me if you are currently using or have ever used chewing tobacco, snuff, or nicotine gum prescribed by a doctor; for example Nicorette. [If Yes, probe for current or past use] chewing tobacco. Q56A [Health/Medical History, exam 2]
+HHXB56B	phv00207132.v1.p1	[Smoking]. Please tell me if you are currently using or have ever used chewing tobacco, snuff, or nicotine gum prescribed by a doctor; for example Nicorette. [If Yes, probe for current or past use] snuff. Q56B [Health/Medical History, exam 2]
+HHXB56C	phv00207133.v1.p1	[Smoking]. Please tell me if you are currently using or have ever used chewing tobacco, snuff, or nicotine gum prescribed by a doctor; for example Nicorette. [If Yes, probe for current or past use]. Nicotine gum [Health/Medical History, exam 2]
+HHXB57	phv00207134.v1.p1	[Smoking]. ASK NON-SMOKERS ONLY: during the past year, about how many hours per week on the average, were you in close contact with people when they were smoking? For example, in your home, in a car, at work, or other close quarter. Q57 [Health/Medical History, exam 2]
+HOM28	phv00207368.v1.p1	Have you ever smoked cigarettes? Q28 [Home Interview, exam 1]
+HOM29	phv00207369.v1.p1	How old were you when you first started regular cigarette smoking? Q29 [Home Interview, exam 1]
+HOM30	phv00207370.v1.p1	Do you now smoke cigarettes? Q30 [Home Interview, exam 1]
+HOM31	phv00207371.v1.p1	Age stopped smoking cigarettes Q31 [Home Interview, exam 1]
+HOM32	phv00207372.v1.p1	Number of cigarettes smoked per day. Q32 [Home Interview, exam 1]
+HOM33	phv00207373.v1.p1	During the years that you have not smoked, was there ever a period of one year or more that you did not smoke cigarettes? Q33 [Home Interview, exam 1]
+HOM34	phv00207374.v1.p1	How many years did you not smoke cigarettes? Q34 [Home Interview, exam 1]
+HOM35	phv00207375.v1.p1	On the average of the entire time you smoked, how many cigarettes did you usually smoke per day? Q35 [Home Interview, exam 1]
+HOM36	phv00207376.v1.p1	(Do/did) you inhale the cigarette smoke? Q36 [Home Interview, exam 1]
+HOM37	phv00207377.v1.p1	Have you ever smoked a pipe regularly? Q37 [Home Interview, exam 1]
+HOM38	phv00207378.v1.p1	How old were you when you started to smoke a pipe regularly? Q38 [Home Interview, exam 1]
+HOM39	phv00207379.v1.p1	Do you now smoke a pipe? Q39 [Home Interview, exam 1]
+HOM41	phv00207381.v1.p1	How much pipe tobacco are you smoking now? (oz. per week). Q41 [Home Interview, exam 1]
+HOM42	phv00207382.v1.p1	On the average over the entire time you smoked a pipe, how much pipe tobacco did you smoke per week? (oz. per week). Q42 [Home Interview, exam 1]
+HOM43	phv00207383.v1.p1	(Do/did) you ever inhale the pipe smoke? Q43 [Home Interview, exam 1]
+HOM44	phv00207384.v1.p1	Ever smoked cigars or cigarillos regularly? Q44 [Home Interview, exam 1]
+HOM45	phv00207385.v1.p1	How old were you when you started smoking (cigars/cigarillos) regularly? Q45 [Home Interview, exam 1]
+HOM46	phv00207386.v1.p1	Do you now smoke (cigars/cigarillos)? Q46 [Home Interview, exam 1]
+HOM47	phv00207387.v1.p1	How old were you when you stopped smoking? Q47 [Home Interview, exam 1]
+HOM48	phv00207388.v1.p1	How many (cigars/cigarillos) do you smoke per week now? Q48 [Home Interview, exam 1]
+HOM49	phv00207389.v1.p1	On the average, over the entire time you smoked (cigars/cigarillos), how many (cigars/cigarillos) did you smoke per week? Q49 [Home Interview, exam 1]
+HOM50	phv00207390.v1.p1	(Do/did) you inhale the (cigar/cigarillo) smoke? Q50 [Home Interview, exam 1]
+HOM51A	phv00207391.v1.p1	Currently using or have ever used chewing tobacco, snuff, or nicotine gum prescribed by a doctor: chewing tobacco? Q51a [Home Interview, exam 1]
+HOM51B	phv00207392.v1.p1	Currently using or have ever used chewing tobacco, snuff, or nicotine gum prescribed by a doctor: snuff? Q51b [Home Interview, exam 1]
+HOM51C	phv00207393.v1.p1	Currently using or have ever used chewing tobacco, snuff, or nicotine gum prescribed by a doctor: nicotine gum? Q51c [Home Interview, exam 1]
+HOM52	phv00207394.v1.p1	ASK NON-SMOKERS ONLY: during the past year, about how many hours per week, on the average, were you in close contact with people when they were smoking? Q52 [Home Interview, exam 1]
+PHXA25	phv00208996.v1.p1	[Smoking]. Have you ever smoked cigarettes? Q25 [Personal History Form, exam 3]
+PHXA26	phv00208997.v1.p1	[Smoking]. Did a doctor or other health professional ever advise you to stop smoking? Q26 [Personal History Form, exam 3]
+PHXA27	phv00208998.v1.p1	[Smoking]. Do you now smoke cigarettes? Q27 [Personal History Form, exam 3]
+PHXA28	phv00208999.v1.p1	[Smoking]. When did you smoke your last cigarette? Q28 [Personal History Form, exam 3]
+PHXA31	phv00209000.v1.p1	[Smoking]. Do (did) you inhale the cigarette smoke? Q31 [Personal History Form, exam 3]
+PHXA32A	phv00209001.v1.p1	[Smoking]. Please tell me if you are currently using or have ever used a pipe, cigars, cigarillos, chewing tobacco, snuff, or nicotine gum or patch prescribed by a doctor; for example, Nicorette, Nicoderm, Habitrol? Pipe/cigars/cigarillos. Q32a [Personal History Form, exam 3]
+PHXA32B	phv00209002.v1.p1	[Smoking]. Please tell me if you are currently using or have ever used a pipe, cigars, cigarillos, chewing tobacco, snuff, or nicotine gum or patch prescribed by a doctor; for example, Nicorette, Nicoderm, Habitrol? Chewing tobacco. Q32b [Personal History Form, exam 3]
+PHXA32C	phv00209003.v1.p1	[Smoking]. Please tell me if you are currently using or have ever used a pipe, cigars, cigarillos, chewing tobacco, snuff, or nicotine gum or patch prescribed by a doctor; for example, Nicorette, Nicoderm, Habitrol? Snuff. Q32c [Personal History Form, exam 3]
+PHXA32D	phv00209004.v1.p1	[Smoking]. Please tell me if you are currently using or have ever used a pipe, cigars, cigarillos, chewing tobacco, snuff, or nicotine gum or patch prescribed by a doctor; for example, Nicorette, Nicoderm, Habitrol? Nicotine gum or patch. Q32d [Personal History Form, exam 3]
+PHXA34	phv00209005.v1.p1	[Passive smoking]. Does anyone living with you now smoke cigarettes? Q34 [Personal History Form, exam 3]
+PHXA35	phv00209006.v1.p1	[Passive smoking]. Have you ever lived for at least one year with someone (including a parent or spouse) who smoked cigarettes regularly in your home? Q35 [Personal History Form, exam 3]
+PHXA37	phv00209007.v1.p1	[Passive smoking]. Does anyone working with you now smoke cigarettes regularly in your work area? Q37 [Personal History Form, exam 3]
+PHXA38	phv00209008.v1.p1	[Passive smoking]. Have you ever worked for at least one year with someone who smoked cigarettes regularly in your work area? Q38 [Personal History Form, exam 3]
+PHXA30	phv00209026.v1.p1	[Smoking]. How many cigarettes do you smoke per day now? Q30 [Personal History Form, exam 3]
+PHXA29	phv00209034.v1.p1	[Smoking]. Prior to quitting, how many cigarettes did you usually smoke per day? Q29 [Personal History Form, exam 3]
+PHXA36	phv00209035.v1.p1	[Passive smoking]. For how many years in total have you lived with someone who smoked cigarettes regularly in your home? Q36 [Personal History Form, exam 3]
+PHXA39	phv00209036.v1.p1	[Passive smoking]. For how many years in total have you worked with someone who smoked cigarettes regularly in your work area? Q39 [Personal History Form, exam 3]
+PHXA33	phv00209044.v1.p1	[Passive smoking]. During the past year, about how many hours per week, on the average, were you in close contact with people when they were smoking? For example, in your home, in a car, at work or other close quarters. Q33 [Personal History Form, exam 3]
+PHXB7	phv00209072.v1.p1	[Smoking]. Have you ever smoked cigarettes? Q7 [Personal History form, exam 4]
+PHXB8	phv00209073.v1.p1	[Smoking]. Do you now smoke cigarettes? Q8 [Personal History form, exam 4]
+PHXB9	phv00209074.v1.p1	[Smoking]. When did you smoke your last cigarette? Q9 [Personal History form, exam 4]
+PHXB12A	phv00209075.v1.p1	[Smoking]. Please tell me if you have ever used the following? Pipe/cigars/cigarillos. Q12a [Personal History form, exam 4]
+PHXB12B	phv00209076.v1.p1	[Smoking]. Please tell me if you have ever used the following? Chewing tobacco. Q12b [Personal History form, exam 4]
+PHXB12C	phv00209077.v1.p1	[Smoking]. Please tell me if you have ever used the following? Snuff. Q12c [Personal History form, exam 4]
+PHXB12D	phv00209078.v1.p1	[Smoking]. Please tell me if you have ever used the following? Nicotine gum that was prescribed by a doctor. Q12d [Personal History form, exam 4]
+PHXB12E	phv00209079.v1.p1	[Smoking]. Please tell me if you have ever used the following? Nicotine patch that was prescribed by a doctor. Q12e [Personal History form, exam 4]
+PHXB10	phv00209085.v1.p1	[Smoking]. Prior to quitting, how many cigarettes did you usually smoke per day? Q10 [Personal History form, exam 4]
+PHXB11	phv00209086.v1.p1	[Smoking]. How many cigarettes do you usually smoke per day now? Q11 [Personal History form, exam 4]
+PHXB13	phv00209087.v1.p1	[Smoking]. During the past year, about how many hours per week, on average, were you in close contact with people when they were smoking? For example, in your home, in a car, at work or other close quarters. Q13 [Personal History form, exam 4]
+SBPA02	phv00210274.v1.p1	[Tobacco and caffeine]. Smoked or used chewing tobacco or snuff within the last 4 hours? Q2 [Siting Blood Pressure, exam 1]
+SBPA04	phv00210275.v1.p1	[Tobacco and caffeine]. Any coffee, tea, or chocolate within the last 4 hours? Q4 [Siting Blood Pressure, exam 1]
+SBPA03MN	phv00210293.v1.p1	[Tobacco and caffeine]. Time in minutes since last use of tobacco [Siting Blood Pressure, exam 1]
+SBPA05MN	phv00210294.v1.p1	[Tobacco and caffeine].  Time in minutes since last coffee, tea or chocolate [Siting Blood Pressure, exam 1]
+SBPB02	phv00210300.v1.p1	Have you smoked or used chewing tobacco or snuff within the last 4 hours? Q2 [Sitting Blood Pressure, exam 2]
+SBPB03MN	phv00210318.v1.p1	Time in minutes since last use of tobacco [Sitting Blood Pressure, exam 2]
+SBPC2	phv00210322.v1.p1	[Tobacco and caffeine use]. Any tobacco in last 4 hours? Q2 [Sitting Blood Pressure, exam 3]
+SBPC4	phv00210323.v1.p1	[Tobacco and caffeine use]. Any caffeine in last 4 hours? Q4 [Sitting Blood Pressure, exam 3]
+SBPC3MN	phv00210344.v1.p1	[Tobacco and caffeine use]. Time in minutes since last use of tobacco [Sitting Blood Pressure, exam 3]
+SBPC5MN	phv00210345.v1.p1	[Tobacco and caffeine use]. Time in minutes since last coffee, tea or chocolate [Sitting Blood Pressure, exam 3]
+SBPD2	phv00210348.v1.p1	[Tobacco and caffeine use]. Any tobacco today? Q2 [Sitting Blood Pressure, exam 4]
+SBPD4	phv00210349.v1.p1	[Tobacco and caffeine use]. Any caffeine today? Q4 [Sitting Blood Pressure, exam 4]
+SBPD3AMN	phv00210367.v1.p1	[Tobacco and caffeine use]. Time in minutes since last use of tobacco [Sitting Blood Pressure, exam 4]
+SBPD5AMN	phv00210368.v1.p1	[Tobacco and caffeine use]. Time in minutes since last coffee, tea or chocolate [Sitting Blood Pressure, exam 4]
+CGPKYR	phv00214056.v1.p1	Lifetime cigarette smoking: pack years
+WHENSM15	phv00214117.v1.p1	Data on smoking collected when?
+EVSMOK15	phv00214118.v1.p1	Have you ever smoked cigarettes (ever = at least 20 packs in lifetime)?
+SMKNOW15	phv00214119.v1.p1	Do you now smoke cigarettes?
+MOSTOP15	phv00214120.v1.p1	If no to [SMKNOW15]: month stopped smoking?
+YRSTOP15	phv00214121.v1.p1	If no to [SMKNOW15]: year stopped smoking?
+CIGDAY15	phv00214122.v1.p1	If yes to [SMKNOW15]: How many cigarettes do you smoke per day now?
+NIAC1	phv00214173.v1.p1	Niacin and nicotinic acid
+CGRTTS10	phv00214208.v1.p1	How many cigarettes 4 hours before going to sleep last night?
+CIGARS10	phv00214210.v1.p1	How many cigars 4 hours before going to sleep last night?
+SMOKSTAT_S1	phv00215390.v1.p1	Smoking status (never=0, current=1, former=2)
+AFUcomp30_G	phv00294709.v2.p1	I. Other Items. SMOKE CIGARETTES Q30 IN AFUG-K; Q50 IN AFUL-M; Q69 IN AFU V1-V3 [Annual Follow-up Questionnaire Form, Version G]
+SUBJECT_ID	phv00294818.v1.p1	ARIC subject ID [Smoking and Alcohol Use Form]
+ALC1	phv00294819.v1.p1	Q1. Smoking. Smoke cigarettes [Smoking and Alcohol Use Form]
+ALC2	phv00294820.v1.p1	Q2. Alcohol. Ever consumed alcoholic beverages [Smoking and Alcohol Use Form]
+ALC3	phv00294821.v1.p1	Q3. Alcohol. Presently drink alcoholic beverages [Smoking and Alcohol Use Form]
+ALC4	phv00294822.v1.p1	Q4. Alcohol. Number of years since stopped drinking [Smoking and Alcohol Use Form]
+ALC5	phv00294823.v1.p1	Q4. Alcohol. Number of 4 Oz glasses of wine per week [Smoking and Alcohol Use Form]
+ALC5A	phv00294824.v1.p1	Q5a. Alcohol. Days per week drinking wine [Smoking and Alcohol Use Form]
+ALC6	phv00294825.v1.p1	Q6. Alcohol. Number Of 12 Oz beers per week [Smoking and Alcohol Use Form]
+ALC6A	phv00294826.v1.p1	Q6a. Alcohol. Days per week drinking beer [Smoking and Alcohol Use Form]
+ALC7	phv00294827.v1.p1	Q7. Alcohol. Number of hard liquor drinks per week [Smoking and Alcohol Use Form]
+ALC7A	phv00294828.v1.p1	Q7a. Alcohol. Days per week drinking hard liquor [Smoking and Alcohol Use Form]
+ALC8	phv00294829.v1.p1	Q8. Alcohol. Number of drinks in past 24 hours [Smoking and Alcohol Use Form]
+ALC0AY	phv00294830.v1.p1	Year of completion date [Smoking and Alcohol Use Form]
+CURRENT_SMOKER	phv00295599.v1.p1	Current smoker
+CIGT52	phv00295631.v1.p1	V5 Cigarette smoking status
+FORSMK52	phv00295632.v1.p1	V5 Former cigarette smoker
+EVRSMK52	phv00295633.v1.p1	Ever smoked cigarettes
