@@ -1,0 +1,40 @@
+HowSoonSmoke	phv00159636.v4.p2	How soon after waking do you smoke first cigarette
+SmokeMore2hrs	phv00159637.v4.p2	Smoke more during first 2 hours of day than rest of day
+CigHateGiveUp	phv00159638.v4.p2	Which cigarette would you hate most to give up
+FindHardNotSmoke	phv00159639.v4.p2	Do you find it hard to not smoke in forbidden places
+SmokeSickBed	phv00159640.v4.p2	Smoke when so ill you are in bed most of day
+SmokeMenthol	phv00159641.v4.p2	Do you now or did you smoke menthol cigarettes
+EverSmokedCig	phv00159747.v4.p2	Have you ever smoked cigarettes?
+SmokStartAge	phv00159748.v4.p2	How old were you when you first started cigarette smoking? [Years old]
+SmokCigNow	phv00159749.v4.p2	Do you now smoke cigarettes [as of one month ago]?
+CigPerDaySmokNow	phv00159750.v4.p2	How many cigarettes do you smoke per day now? [Cigarettes/day]
+SmokStopAge	phv00159751.v4.p2	How old were you when you completely stopped smoking? [Years old]
+CigPerDaySmokAvg	phv00159752.v4.p2	Average for entire time how many cigarettes smoked per day [cigarettes/day]
+CigSmok24hrs_NA	phv00159753.v4.p2	Cigarettes smoked past 24 hours - does not apply
+CigSmok24hrs	phv00159754.v4.p2	How many cigarettes have you smoked in the past 24 hours [cigarettes]
+CigSmok2hrs	phv00159755.v4.p2	How many cigarettes have you smoked in the past 2 hours [cigarettes]
+CigSmokHalfHr	phv00159756.v4.p2	How many cigarettes have you smoked in the past half hour [cigarettes]
+SmokPipeReg	phv00159757.v4.p2	Have you ever smoked a pipe regularly?
+AgeStartSmokPipe	phv00159758.v4.p2	Age when started to smoke pipe regularly [years old]
+SmokPipeNow	phv00159759.v4.p2	Do you now smoke a pipe [as of one month ago]
+QtySmokPipeTob	phv00159760.v4.p2	How much pipe tobacco do you smoke per day now? [Oz per day]
+AgeStopSmokPipe	phv00159761.v4.p2	Age when completely stopped smoking pipe [years old]
+SmokTobPerWeek	phv00159762.v4.p2	On average ounces of tobacco smoked per week [oz per week]
+SmokCigarReg	phv00159763.v4.p2	Have you ever smoked cigars regularly?
+AgeStartSmkCigar	phv00159764.v4.p2	Age when started to smoke cigars regularly [years old]
+SmokCigarNow	phv00159765.v4.p2	Do you now smoke cigars [as of one month ago]
+CigarPerDayNow	phv00159766.v4.p2	How many cigars do you smoke per day now. [Cigars per day]
+AgeStopSmokCigar	phv00159767.v4.p2	Age when completely stopped smoking cigars [years old]
+SmokCigarPerWeek	phv00159768.v4.p2	On average how many cigars did you smoke per week [cigars per week]
+MothSmokPreg	phv00159769.v4.p2	Did your mother smoke cigarettes when she was pregnant
+OthSmokChildYrs	phv00159770.v4.p2	As a child years lived with someone who smoked [years]
+OthSmokYrs	phv00159771.v4.p2	Since age 18 years lived with someone who smoked [years]
+ExpSmokAtWorkYr	phv00159772.v4.p2	How many years exposed to smoke at work [years]
+FumesJobEver	phv00159775.v4.p2	Exposed to gas smoke chemicals other fumes at work?
+ExpFumesNow	phv00159780.v4.p2	Are you currently exposed to gas smoke chemicals fumes?
+FathCigSmok	phv00159795.v4.p2	Was your natural father a cigarette smoker?
+MothCigSmok	phv00159796.v4.p2	Was your natural mother a cigarette smoker?
+Duration_Smoking	phv00169388.v3.p2	Duration of smoking [yrs]
+YearsSinceQuit	phv00169389.v3.p2	Years since quit smoking
+ESP_CURRENT_SMOKER_BASELINE	phv00170997.v1.p2	ESP_CURRENT_SMOKER_BASELINE
+ESP_FORMER_SMOKER_BASELINE	phv00170998.v1.p2	ESP_FORMER_SMOKER_BASELINE

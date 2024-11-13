@@ -1,0 +1,12 @@
+smoke	phv00070952.v1.p1	Participant smoked during trial
+ENV_SMOKE	phv00070953.v1.p1	Either parent smoked during trial
+ENV_SMOKE_pretrial	phv00070954.v1.p1	Home exposure to smoke prior to trial enrollment
+IUS	phv00070955.v1.p1	In utero smoke: mother smoked when pregnant with participant
+smoke	phv00071062.v1.p1	Participant smoked during trial
+env_smoke	phv00071063.v1.p1	Either parent smoked during trial
+env_smoke_pretrial	phv00071064.v1.p1	Home exposure to smoke prior to trial enrollment
+ius	phv00071065.v1.p1	In Utero Smoke.  Mother smoked when pregnant with participant.
+smoke	phv00071170.v2.p1	Participant smoked during trial
+env_smoke	phv00071171.v2.p1	Either parent smoked during trial
+env_smoke_pretrial	phv00071172.v2.p1	Home exposure to smoke prior to trial enrollment
+ius	phv00071173.v2.p1	In Utero Smoke.  Mother smoked when pregnant with participant.

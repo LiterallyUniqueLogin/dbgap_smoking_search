@@ -1,0 +1,12 @@
+Current_smoke	phv00258705.v1.p1	Current Smoker
+Age_smoking	phv00258706.v1.p1	Age Started Smoking (years)
+Length_sm_years	phv00258707.v1.p1	Length of time smoking (years)
+Length_sm_months	phv00258708.v1.p1	Length of time smoking (months)
+Man_cigarettes	phv00258709.v1.p1	Number of manufactured cigarettes per day
+Hand_cigarettes	phv00258710.v1.p1	Number of hand-rolled cigarettes per day
+Cigars	phv00258712.v1.p1	Number of cigars per day
+Past_smoker	phv00258713.v1.p1	Past Smoker
+Age_Quit	phv00258714.v1.p1	Age Quit Smoking
+Smokeless_tobacco_use	phv00258718.v1.p1	Do you use smokeless tobacco?
+Other_smokeless	phv00258722.v1.p1	How many times per day do you use other types of smokeless tobacco?
+Type_other_smokeless	phv00258723.v1.p1	What type of other smokeless tobacco do you use?

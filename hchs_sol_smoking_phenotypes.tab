@@ -1,0 +1,8 @@
+CIGARETTE_PACK_YEARS	phv00226257.v1.p1	Cigarette Pack Years
+CIGARETTE_USE	phv00226258.v1.p1	Cigarette use (1-Never,2=Former,3=Current)
+EXPOSURE_YEAR	phv00226277.v1.p1	Adjusted years smoked
+MED_FIBARES_NICOACID	phv00226344.v1.p1	Fibric/nicotinic acids (trt of TG and HDL)
+TBEA1	phv00258106.v1.p1	Smoke at least 100 cigs in lifetime (TBEA1)
+TBEA3	phv00258107.v1.p1	Present smoking status  (TBEA3)
+TBEA5	phv00258109.v1.p1	Some: number of days you smoked during past 30 days - original desc: some: past 30 days - smoke cigs  (TBEA5)
+TBEA5A	phv00258110.v1.p1	Some: cigarettes per day on days you smoked during past 30 days - original desc: some: past 30 days - quit smoking 6 months or longer  (TBEA5A)

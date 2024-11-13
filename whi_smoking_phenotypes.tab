@@ -1,0 +1,61 @@
+LWPSMKNG_3	phv00077460.v6.p3	Smoking to lose weight
+SMOKENW_3	phv00077559.v6.p3	Smoke cigarettes now
+CIGSDAY_3	phv00077560.v6.p3	How many cigarettes/day
+LIVSMK_3	phv00077561.v6.p3	Anyone living w/you smoke
+HSBNDSMK_3	phv00077562.v6.p3	Husband or partner in home smokes
+CHILDSMK_3	phv00077563.v6.p3	Son or daughter in home smokes
+OTHSMK_3	phv00077564.v6.p3	Other person/people in home smokes
+SMKWORK_3	phv00077565.v6.p3	Work in a space where people smoke
+SMOKENW_4	phv00077704.v6.p3	Smoke cigarettes now
+CIGSDAY_4	phv00077705.v6.p3	Cigarettes per day
+SMOKENW_5	phv00077811.v6.p3	Smoke cigarettes now
+CIGSDAY_5	phv00077812.v6.p3	Cigarettes per day
+LWPSMKNG_6	phv00077918.v6.p3	5lbs on purpose/Started, increased smoking
+SMOKENW_6	phv00077961.v6.p3	Smoke cigarettes now
+CIGSDAY_6	phv00077962.v6.p3	How many cigarette per day
+LIVSMK_6	phv00077963.v6.p3	Does any smoker live with you
+HSBNDSMK_6	phv00077964.v6.p3	Smoke inside/Husband or partner
+CHILDSMK_6	phv00077965.v6.p3	Smoke inside/Son(s) or daughter(s)
+OTHSMK_6	phv00077966.v6.p3	Smoke inside/Other person
+SMKWORK_6	phv00077967.v6.p3	Share work space with smokers
+SMOKENW_7	phv00078123.v6.p3	Smoke cigarettes now
+CIGSDAY_7	phv00078124.v6.p3	How many cigarette per day
+SMOKENW_8	phv00078247.v6.p3	Smoke cigarettes now
+CIGSDAY_8	phv00078248.v6.p3	Cigarettes per day
+SMOKEVR	phv00078774.v6.p3	Smoked at least 100 cigarettes ever
+SMOKAGE	phv00078775.v6.p3	Age started smoking cigarettes regularly
+SMOKNOW	phv00078776.v6.p3	Smoke cigarettes now
+QSMOKAGE	phv00078777.v6.p3	Age quit smoking regularly
+QSMOKHP	phv00078778.v6.p3	Quit smoking because of health problems
+CIGSDAY	phv00078779.v6.p3	Smoke or smoked, cigarettes/day
+SMOKYRS	phv00078780.v6.p3	Years a regular smoker
+SMOKWGT	phv00078781.v6.p3	Smoked to lose weight
+SMOKING	phv00078825.v6.p3	Smoking status
+SMOKNOW	phv00078847.v6.p3	Do you smoke cigarettes now
+CIGSDAY	phv00078848.v6.p3	How many cigarettes per day
+CHLVSMK	phv00079355.v6.p3	Lived with smoker as a child
+CHLVSMKY	phv00079356.v6.p3	Years as child lived with smoker
+ADLVSMK	phv00079357.v6.p3	Lived with smoker after age 18
+ADLVSMKY	phv00079358.v6.p3	Years as adult lived with smoker
+LVSMKNW	phv00079359.v6.p3	Live with smoker now
+PTNRSMK	phv00079360.v6.p3	Smoker - husband/partner
+CHLDSMK	phv00079361.v6.p3	Smoker - Son/daughter
+OTHSMK	phv00079362.v6.p3	Smoker - Other person
+WORKSMK	phv00079363.v6.p3	Worked with smoker
+WORKSMKY	phv00079364.v6.p3	Years worked where people smoked
+WRKSMKNW	phv00079365.v6.p3	Work with smoker now
+LWGTSMK	phv00079571.v6.p3	Lost weight by increasing smoking
+SMOKENW	phv00079634.v6.p3	Smoke cigarettes now
+CIGSDAY	phv00079635.v6.p3	Smoke, cigs/day
+CIGFILTR	phv00079636.v6.p3	Type of filter on cigarette
+CIGTAR	phv00079637.v6.p3	Type of tar and nicotine cigarette
+CIGSIZE	phv00079638.v6.p3	Size cigarette usually smoked
+esp_current_smoker_baseline	phv00165277.v2.p3	BASELINE CURRENT SMOKER
+esp_former_smoker_baseline	phv00165278.v2.p3	BASELINE FORMER SMOKER
+PACKYRS	phv00282910.v1.p3	Pack years of smoking
+PACKYRSC	phv00282911.v1.p3	Pack years of smoking (categorical)
+SMOKNOW	phv00282992.v1.p3	Smoke cigarettes now
+CIGSDAY	phv00282993.v1.p3	Cigarettes per day
+SMOKERHX	phv00283507.v2.p3	F136 History of current smoker
+X1.methylnicotinamide	phv00284131.v1.p3	1-methylnicotinamide
+X1.methylnicotinamide	phv00284503.v1.p3	1-methylnicotinamide

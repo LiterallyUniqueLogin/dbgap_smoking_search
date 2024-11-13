@@ -70,7 +70,7 @@ for batch_start in range(0, n_results, batch_size):
         variable_id = variable_id_split[1]
 
         name = uid_result['d_variable_name']
-        description = uid_result['d_variable_description'] 
+        description = uid_result['d_variable_description']
         if any(word in description.lower() for word in ['nicotin', 'smoke', 'smoki', 'cigar', 'vape', 'vapi', 'tobacco', 'hookah']):
             phenotypes[variable_id] = f'{name}\t{variable_id}\t{description}'
 

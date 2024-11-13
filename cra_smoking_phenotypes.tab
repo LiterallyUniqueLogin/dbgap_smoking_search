@@ -1,0 +1,6 @@
+ever_Smoker	phv00267374.v3.p1	Ever smoked
+Current_Smoker	phv00267375.v3.p1	Current smoking status
+former_Smoker	phv00267376.v3.p1	Former smoking status
+packyrs	phv00267377.v3.p1	Packs of cigarettes smoked per day multiplied by years of cigarette smoking, calculated at specified visit
+cigsperday	phv00267378.v3.p1	Number of cigarettes smoked per day
+cigsperday_average	phv00267379.v3.p1	Number of cigarettes smoked per day, averaged over all years of smoking

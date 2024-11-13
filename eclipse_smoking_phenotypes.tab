@@ -1,0 +1,64 @@
+ATS7A	phv00293291.v1.p1	Ever smoked cigarettes
+ATS7A1	phv00293292.v1.p1	Now smoke cigarettes (as of 1 month ago)
+ATS7A2N	phv00293293.v1.p1	Age first started smoking cigarettes
+ATS7A2	phv00293294.v1.p1	Age first started smoke cigarettes, unknown
+ATS7A3N	phv00293295.v1.p1	Age stopped smoking cigarettes
+ATS7A3	phv00293296.v1.p1	Age stopped smoking cigarettes, unknown
+ATS7A4N	phv00293297.v1.p1	Cigarettes smoked per day now
+ATS7A4	phv00293298.v1.p1	Cigarettes smoked per day now, unknown
+ATS7A5N	phv00293299.v1.p1	Cigarettes smoked per day overall
+ATS7A5	phv00293300.v1.p1	Cigarettes smoked per day overall, unknown
+ATS7A6	phv00293301.v1.p1	Do/did you inhale cigarette smoke
+ATS7A7	phv00293302.v1.p1	Smoked filter tips
+ATS7B	phv00293303.v1.p1	Smoked any cigarettes in past 24 hours
+ATS7B1	phv00293304.v1.p1	Number cigarettes smoked in last 24 hours
+ATS7B2	phv00293305.v1.p1	Number cigarettes smoked in last 2 hours
+ATS7B3	phv00293306.v1.p1	Number cigarettes smoked last half hour
+ATS7C1	phv00293307.v1.p1	Was mother a cigarette smoker
+ATS7C2	phv00293308.v1.p1	Was father a cigarette smoker
+ATS7D	phv00293309.v1.p1	Ever smoked a pipe regularly
+ATS7D1N	phv00293310.v1.p1	Age started smoking pipe regularly
+ATS7D1	phv00293311.v1.p1	Age started smoking pipe regularly, unknown
+ATS7D2N	phv00293312.v1.p1	Age stopped smoking pipe regularly
+ATS7D2	phv00293313.v1.p1	Age stopped smoking pipe regularly, unknown
+ATS7D3N	phv00293314.v1.p1	Average oz/week pipe tobacco smoked overall
+ATS7D3	phv00293315.v1.p1	Average oz pipe tobacco smoked overall, unknown
+ATS7D4N	phv00293316.v1.p1	Amount pipe tobacco smoked now
+ATS7D4	phv00293317.v1.p1	Amount pipe tobacco smoked now, unknown
+ATS7D5	phv00293318.v1.p1	Do/did you inhale pipe smoke
+ATS7E	phv00293319.v1.p1	Ever smoked cigars regularly
+ATS7E1N	phv00293320.v1.p1	Age started smoking cigars regularly
+ATS7E1	phv00293321.v1.p1	Age started smoking cigars regular, unknown
+ATS7E2N	phv00293322.v1.p1	Age stopped smoking cigars
+ATS7E2	phv00293323.v1.p1	Age stopped smoking cigars, unknown
+ATS7E3N	phv00293324.v1.p1	Cigars smoked per week overall
+ATS7E3	phv00293325.v1.p1	Cigars smoked per week overall, unknown
+ATS7E4N	phv00293326.v1.p1	Cigars smoked per week now
+ATS7E4	phv00293327.v1.p1	Cigars smoked per week now, unknown
+ATS7E5	phv00293328.v1.p1	Do/did you inhale cigar smoke
+ATS7F	phv00293329.v1.p1	Ever smoked cigarillos regularly
+ATS7F1N	phv00293330.v1.p1	Age started smoking cigarillos
+ATS7F1	phv00293331.v1.p1	Age started smoking cigarillos, unknown
+ATS7F2N	phv00293332.v1.p1	Age stopped smoking cigarillos
+ATS7F2	phv00293333.v1.p1	Age stopped smoking cigarillos, unknown
+ATS7F3N	phv00293334.v1.p1	Cigarillos smoked per week overall
+ATS7F3	phv00293335.v1.p1	Cigarillos smoked per week overall, unknown
+ATS7F4N	phv00293336.v1.p1	Cigarillos smoked per week now
+ATS7F4	phv00293337.v1.p1	Cigarillos smoked per week now, unknown
+ATS7F5	phv00293338.v1.p1	Do/did you inhale cigarillos smoke
+ATS7G	phv00293339.v1.p1	Exposed to other tobacco smoke last 24 hours
+ATS7G1	phv00293340.v1.p1	Tobacco smoke exposure last 24 hours
+ATS7G2	phv00293341.v1.p1	Tobacco smoke exposure last 2 hours
+ATS7G3	phv00293342.v1.p1	Tobacco smoke exposure last half hours
+ATS7H	phv00293343.v1.p1	Anyone else smoke regularly in home
+ATS7I	phv00293344.v1.p1	Anyone else smoke regularly in childhood home
+SMKCO_B	phv00293562.v1.p1	Smoking status based on CO
+SUNIC_B	phv00293565.v1.p1	Nicotine oral/topical use?
+SUPKYR	phv00293566.v1.p1	Number of pack years smoked
+SUSMHS	phv00293567.v1.p1	History of tobacco use
+SMKCO	phv00293794.v1.p1	Smoking status based on CO
+SMTH	phv00294226.v1.p1	Smoking tobacco history question
+SMTHDY	phv00294228.v1.p1	Smoking frequency
+SMTHTY	phv00294229.v1.p1	Cigarette type
+SMTHST	phv00294230.v1.p1	Cigarette strength
+SMTHLE	phv00294231.v1.p1	Cigarette length

@@ -1,0 +1,43 @@
+SMOKED	phv00122340.v1.p1	Ever smoked cigarettes (A)
+AGESMOK	phv00122341.v1.p1	Age when first smoked cigarettes (A)
+AVGSMOK	phv00122342.v1.p1	Average number of cigarettes smoke per day (A)
+MONSMOKE	phv00122343.v1.p1	Past month, smoke >=1 cigarettes/day (A)
+NOWSMOKE	phv00122344.v1.p1	Number of cigarettes currently smoke/day (A)
+STOPSMOK	phv00122345.v1.p1	Age stopped smoking cigarettes (A)
+CIGARS	phv00122346.v1.p1	Ever smoked cigars/cigarillos
+AGECIGS	phv00122347.v1.p1	Age first started smoking cigars
+AVGCIGS	phv00122348.v1.p1	Average Number of  cigar/illos smoke/day (A)
+MONCIGS	phv00122349.v1.p1	Past month, smoke >= 1 cigar/illo/day (A)
+NOWCIGS	phv00122350.v1.p1	Number of cigar/illos currently smoke/day (A)
+STOPCIGS	phv00122351.v1.p1	Age stopped smoking cigar/illo (A)
+PIPES	phv00122352.v1.p1	Ever smoked pipes
+AGEPIPE	phv00122353.v1.p1	Age when first smoked pipe (A)
+AVGPIPE	phv00122354.v1.p1	Average Number of pipe bowls smoked/day (A)
+MONPIPE	phv00122355.v1.p1	Past month, smoke >= 1 pipe bowl/day (A)
+NOWPIPE	phv00122356.v1.p1	Number of  pipe bowls currently smoke/day (A)
+STOPPIPE	phv00122357.v1.p1	Age stopped smoking pipe (A)
+CIGAR	phv00122375.v1.p1	Ever smoked cigars/cigarillos
+PIPE	phv00122376.v1.p1	Ever smoked a pipe
+SMOPREG	phv00122537.v1.p1	Mom smoked during pregnancy (C)
+PREGMOS	phv00122538.v1.p1	Number of months of pregnancy smoked (C)
+PREGNO	phv00122539.v1.p1	Number of cigarettes mom smoke/day while pregnant (C)
+SMOGROW	phv00122540.v1.p1	Mom smoked while child was growing up (C)
+GROWNO	phv00122541.v1.p1	Number of cigarettes mom smoked/day while child young (C)
+CIGADY	phv00122542.v1.p1	Smoke >= 1 cigarette/day (C)
+CIGAWK	phv00122543.v1.p1	Smoke >= 1 cigarette/week (C)
+EVERCIG	phv00122544.v1.p1	Smoke >= 1 cigarette/week for a month (C)
+MOSSMOK	phv00122545.v1.p1	Number of  months have been smoking (C)
+NOCIGS	phv00122546.v1.p1	Average number of cigarettes smoked/day (C)
+INHALE	phv00122547.v1.p1	Inhale when smoking (C)
+FILTER	phv00122548.v1.p1	Smoke filter tip cigarettes (C)
+JOINT	phv00122549.v1.p1	Smoke >= 1 marijuana joint/wk for a mo. (C)
+JTADAY	phv00122550.v1.p1	Smoke >= 1 marijuana joint/day (C)
+smokerx	phv00123025.v1.p1	Smoking: Smoker Status
+yrssmoke	phv00123026.v1.p1	Smoking: Years smoked
+packyr	phv00123027.v1.p1	Smoking: Average packs smoked/year
+MOMSMOKE	phv00123137.v1.p1	59 Did mom smoke while pregnant with you? (L)
+SMOKE5YR	phv00123138.v1.p1	60 Did mom smoke during the first five years of your life? (L)
+BRLSTCIG	phv00123770.v1.p1	BracReac: Last Cigarette
+PM10CIG	phv00123874.v1.p1	Blood Draw: 10 PM - how long since last cigarette
+AM7CIG	phv00123878.v1.p1	Blood Draw: 7 AM - how long since last cigarette
+AM930CIG	phv00123881.v1.p1	Blood Draw: 9:30 AM - how long since last cigarette
